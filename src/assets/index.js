@@ -30,6 +30,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Rohit from "./Rohit.png";
 import Vikas from "./Vikas.png";
+import Anuj from "./Anuj.png";
 
 
 export {
@@ -58,6 +59,7 @@ export {
   starbucks,
   Rohit,
   Vikas,
+  Anuj,
   carrent,
   jobit,
   tripguide,

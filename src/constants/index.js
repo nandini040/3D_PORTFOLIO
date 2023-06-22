@@ -23,6 +23,7 @@ import {
     threejs,
     Rohit,
     Vikas,
+    Anuj,
   } from "../assets";
   
   export const navLinks = [
@@ -132,15 +133,15 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Hello",
+        "Nandini is a quick learner and technically very competent. She has shown great character, composure and patience towards learning during her industrial tranining with me. She will prove to be a great asset to any organization she will be associated with.",
       name: "Anuj Jain",
       designation: "Application Domain Manager",
       company: "ST Microelectronics",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: Anuj,
     },
     {
       testimonial:
-        "Hi",
+        "Nandini demonstrated exceptional technical skills and a keen ability to learn quickly. Nandini's ability to work well under pressure and her excellent problem-solving skills make her a valuable asset to any organization. I highly recommend Nandini for any role she may be considered for in the future.",
       name: "Rohit Sikka",
       designation: "Technical Leader",
       company: "ST Microelectronics",
@@ -148,10 +149,10 @@ import {
     },
     {
       testimonial:
-        "bye",
+        "I had the pleasure of working with Nandini on a web development project and I was thoroughly impressed with her skills and dedication to the project. Her attention to detail and ability to troubleshoot complex issues were instrumental in the success of our project. I highly recommend Nandini for web development role.",
       name: "Vikas Saini",
       designation: "Graphic Designer",
-      company: "Freelancing",
+      company: "self-employment",
       image: Vikas,
     },
   ];
